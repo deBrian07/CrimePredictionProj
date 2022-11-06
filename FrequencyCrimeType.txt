@@ -1,0 +1,146 @@
+/Users/brianchen/Desktop/CrimePredictionProj./venv/bin/python /Users/brianchen/Desktop/CrimePredictionProj./main.py
+BATTERY - SIMPLE ASSAULT                                    237354
+VEHICLE - STOLEN                                            224114
+BURGLARY FROM VEHICLE                                       199325
+BURGLARY                                                    183511
+THEFT PLAIN - PETTY ($950 & UNDER)                          180297
+THEFT OF IDENTITY                                           163355
+VANDALISM - FELONY ($400 & OVER, ALL CHURCH VANDALISMS)     146572
+INTIMATE PARTNER - SIMPLE ASSAULT                           144945
+ASSAULT WITH DEADLY WEAPON, AGGRAVATED ASSAULT              127445
+THEFT FROM MOTOR VEHICLE - PETTY ($950 & UNDER)             112473
+VANDALISM - MISDEAMEANOR ($399 OR UNDER)                    107753
+ROBBERY                                                     104573
+THEFT-GRAND ($950.01 & OVER)EXCPT,GUNS,FOWL,LIVESTK,PROD     92791
+CRIMINAL THREATS - NO WEAPON DISPLAYED                       68906
+SHOPLIFTING - PETTY THEFT ($950 & UNDER)                     58663
+THEFT FROM MOTOR VEHICLE - GRAND ($950.01 AND OVER)          50615
+TRESPASSING                                                  29394
+VIOLATION OF RESTRAINING ORDER                               26970
+LETTERS, LEWD  -  TELEPHONE CALLS, LEWD                      26226
+OTHER MISCELLANEOUS CRIME                                    24988
+DOCUMENT FORGERY / STOLEN FELONY                             24817
+BRANDISH WEAPON                                              24752
+VIOLATION OF COURT ORDER                                     24194
+INTIMATE PARTNER - AGGRAVATED ASSAULT                        23698
+BIKE - STOLEN                                                19907
+THEFT, PERSON                                                17453
+ATTEMPTED ROBBERY                                            15205
+BURGLARY, ATTEMPTED                                          14968
+BATTERY WITH SEXUAL CONTACT                                  14060
+RAPE, FORCIBLE                                               12973
+BUNCO, GRAND THEFT                                           12694
+CHILD ABUSE (PHYSICAL) - SIMPLE ASSAULT                      11505
+EMBEZZLEMENT, GRAND THEFT ($950.01 & OVER)                   10297
+CRM AGNST CHLD (13 OR UNDER) (14-15 & SUSP 10 YRS OLDER)     10179
+OTHER ASSAULT                                                 6911
+BUNCO, PETTY THEFT                                            6756
+SHOPLIFTING-GRAND THEFT ($950.01 & OVER)                      6723
+BATTERY POLICE (SIMPLE)                                       6586
+CHILD NEGLECT (SEE 300 W.I.C.)                                5986
+CHILD ANNOYING (17YRS & UNDER)                                5846
+CONTEMPT OF COURT                                             5660
+DISCHARGE FIREARMS/SHOTS FIRED                                5554
+ARSON                                                         5228
+SEX,UNLAWFUL(INC MUTUAL CONSENT, PENETRATION W/ FRGN OBJ      5081
+VEHICLE - ATTEMPT STOLEN                                      5026
+DISTURBING THE PEACE                                          4634
+INDECENT EXPOSURE                                             4264
+CRIMINAL HOMICIDE                                             3843
+RESISTING ARREST                                              3840
+EXTORTION                                                     3750
+SEXUAL PENETRATION W/FOREIGN OBJECT                           3747
+SHOTS FIRED AT INHABITED DWELLING                             3679
+THREATENING PHONE CALLS/LETTERS                               3450
+BURGLARY FROM VEHICLE, ATTEMPTED                              3274
+KIDNAPPING                                                    2517
+ORAL COPULATION                                               2440
+ASSAULT WITH DEADLY WEAPON ON POLICE OFFICER                  2416
+DEFRAUDING INNKEEPER/THEFT OF SERVICES, $950 & UNDER          2353
+SEX OFFENDER REGISTRANT OUT OF COMPLIANCE                     2310
+STALKING                                                      2225
+THROWING OBJECT AT MOVING VEHICLE                             2181
+CHILD ABUSE (PHYSICAL) - AGGRAVATED ASSAULT                   2084
+VIOLATION OF TEMPORARY RESTRAINING ORDER                      2014
+THEFT PLAIN - ATTEMPT                                         1975
+PICKPOCKET                                                    1914
+THEFT FROM MOTOR VEHICLE - ATTEMPT                            1914
+SODOMY/SEXUAL CONTACT B/W PENIS OF ONE PERS TO ANUS OTH       1910
+UNAUTHORIZED COMPUTER ACCESS                                  1831
+LEWD CONDUCT                                                  1830
+BOMB SCARE                                                    1455
+CRUELTY TO ANIMALS                                            1434
+PEEPING TOM                                                   1429
+CHILD STEALING                                                1408
+FAILURE TO YIELD                                              1393
+RAPE, ATTEMPTED                                               1321
+PURSE SNATCHING                                               1256
+FALSE IMPRISONMENT                                            1166
+PROWLER                                                       1064
+BUNCO, ATTEMPT                                                 974
+COUNTERFEIT                                                    925
+VEHICLE - MOTORIZED SCOOTERS, BICYCLES, AND WHEELCHAIRS        890
+CREDIT CARDS, FRAUD USE ($950.01 & OVER)                       877
+KIDNAPPING - GRAND ATTEMPT                                     871
+HUMAN TRAFFICKING - COMMERCIAL SEX ACTS                        791
+EMBEZZLEMENT, PETTY THEFT ($950 & UNDER)                       660
+SHOTS FIRED AT MOVING VEHICLE, TRAIN OR AIRCRAFT               635
+DRIVING WITHOUT OWNER CONSENT (DWOC)                           593
+ILLEGAL DUMPING                                                584
+PIMPING                                                        577
+FALSE POLICE REPORT                                            496
+BATTERY ON A FIREFIGHTER                                       478
+RECKLESS DRIVING                                               429
+DOCUMENT WORTHLESS ($200.01 & OVER)                            414
+PANDERING                                                      405
+CHILD PORNOGRAPHY                                              391
+CREDIT CARDS, FRAUD USE ($950 & UNDER                          368
+THEFT FROM PERSON - ATTEMPT                                    368
+BOAT - STOLEN                                                  365
+LEWD/LASCIVIOUS ACTS WITH CHILD                                317
+SHOPLIFTING - ATTEMPT                                          305
+DEFRAUDING INNKEEPER/THEFT OF SERVICES, OVER $950.01           287
+THEFT, COIN MACHINE - PETTY ($950 & UNDER)                     247
+CONTRIBUTING                                                   205
+DISHONEST EMPLOYEE - GRAND THEFT                               199
+WEAPONS POSSESSION/BOMBING                                     199
+HUMAN TRAFFICKING - INVOLUNTARY SERVITUDE                      170
+DISHONEST EMPLOYEE - PETTY THEFT                               146
+CHILD ABANDONMENT                                              122
+TILL TAP - PETTY ($950 & UNDER)                                109
+DOCUMENT WORTHLESS ($200 & UNDER)                               82
+GRAND THEFT / INSURANCE FRAUD                                   77
+CONSPIRACY                                                      67
+LYNCHING                                                        59
+DRUGS, TO A MINOR                                               58
+PURSE SNATCHING - ATTEMPT                                       55
+DRUNK ROLL                                                      53
+THEFT, COIN MACHINE - GRAND ($950.01 & OVER)                    51
+DISRUPT SCHOOL                                                  51
+BIKE - ATTEMPTED STOLEN                                         45
+TELEPHONE PROPERTY - DAMAGE                                     41
+REPLICA FIREARMS(SALE,DISPLAY,MANUFACTURE OR DISTRIBUTE)        40
+BRIBERY                                                         39
+LYNCHING - ATTEMPTED                                            34
+BEASTIALITY, CRIME AGAINST NATURE SEXUAL ASSLT WITH ANIM        32
+THEFT, COIN MACHINE - ATTEMPT                                   31
+PETTY THEFT - AUTO REPAIR                                       31
+TILL TAP - GRAND THEFT ($950.01 & OVER)                         27
+PICKPOCKET, ATTEMPT                                             26
+FAILURE TO DISPERSE                                             22
+BIGAMY                                                          18
+GRAND THEFT / AUTO REPAIR                                       17
+INCEST (SEXUAL ACTS BETWEEN BLOOD RELATIVES)                    17
+INCITING A RIOT                                                 15
+MANSLAUGHTER, NEGLIGENT                                         15
+DISHONEST EMPLOYEE ATTEMPTED THEFT                              10
+ABORTION/ILLEGAL                                                 7
+BLOCKING DOOR INDUCTION CENTER                                   7
+FIREARMS RESTRAINING ORDER (FIREARMS RO)                         6
+TILL TAP - ATTEMPT                                               4
+FIREARMS EMERGENCY PROTECTIVE ORDER (FIREARMS EPO)               4
+TRAIN WRECKING                                                   2
+FIREARMS TEMPORARY RESTRAINING ORDER (TEMP FIREARMS RO)          1
+DRUNK ROLL - ATTEMPT                                             1
+
+Process finished with exit code 0

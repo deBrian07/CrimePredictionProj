@@ -1,0 +1,28 @@
+/Users/brianchen/Desktop/CrimePredictionProj./venv/bin/python /Users/brianchen/Desktop/CrimePredictionProj./main.py
+12.0    214988
+18.0    166958
+20.0    160182
+19.0    146558
+17.0    146172
+16.0    145330
+22.0    144184
+21.0    138982
+15.0    135465
+14.0    135346
+10.0    118712
+8.0     113648
+13.0    113050
+23.0    111611
+0.0     111135
+11.0    105637
+9.0      97044
+1.0      74843
+2.0      70104
+7.0      65026
+6.0      50834
+3.0      49813
+4.0      42886
+5.0      35606
+24.0     11978
+
+Process finished with exit code 0
