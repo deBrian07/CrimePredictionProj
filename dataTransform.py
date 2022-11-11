@@ -2,9 +2,14 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 def dataTransform():
+    # MERGING DATA
     # data1 = pd.read_csv('Crime_Data_from_2010_to_2019.csv')
     # data2 = pd.read_csv('Crime_Data_from_2020_to_Present.csv')
 
+    # merged_data = pd.concat([data1, data2])
+    # merged_data.to_csv('data.csv')
+
+    # IMPORT DATA
     data = pd.read_csv('data.csv')
 
     # print(len(data1) + len(data2))
@@ -37,9 +42,9 @@ def dataTransform():
 
     # Frequency by county
     #data2 = pd.read_csv('HourCountyMonth.csv')
-    frequency = data['AREA NAME'].value_counts()
-    frequency.plot(kind = 'bar')
-    plt.show()
+    # frequency = data['AREA NAME'].value_counts()
+    # frequency.plot(kind = 'bar')
+    # plt.show()
 
 
 dataTransform()
