@@ -1,0 +1,39 @@
+{
+  "build": "py38h42add53_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "blas * openblas",
+    "libcxx >=12.0.0",
+    "libopenblas >=0.3.20,<1.0a0",
+    "numpy-base 1.23.3 py38hadd41eb_1",
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "/Users/brianchen/miniconda3/pkgs/numpy-1.23.3-py38h42add53_1",
+  "features": "",
+  "files": [],
+  "fn": "numpy-1.23.3-py38h42add53_1.conda",
+  "legacy_bz2_md5": "14e044b687b8d09704c10734477831f6",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/brianchen/miniconda3/pkgs/numpy-1.23.3-py38h42add53_1",
+    "type": 1
+  },
+  "md5": "9d8379b46183d66c98be7d2503dc765c",
+  "name": "numpy",
+  "package_tarball_full_path": "/Users/brianchen/miniconda3/pkgs/numpy-1.23.3-py38h42add53_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "8b74d80392db2e4717cbcfcd4ff456892f9fa3ce30b89ef3da3b01c1bb6700a4",
+  "size": 11487,
+  "subdir": "osx-arm64",
+  "timestamp": 1667233645186,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/numpy-1.23.3-py38h42add53_1.conda",
+  "version": "1.23.3"
+}
