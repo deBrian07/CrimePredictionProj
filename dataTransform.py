@@ -17,9 +17,9 @@ def dataTransform():
 
     # All the possible weapons
     # print("All possible weapon used: ")
-    # weapons = data['Weapon Desc'].unique();
+    # weapons = data['Weapon Desc'].unique()
     # for i in range(0,len(weapons)):
-    #     print(i, "   ", weapons[i]);
+    #     print(i, "   ", weapons[i])
 
     # Frequency of each level of crime
     # frequency = data['Crm Cd Desc'].value_counts()
